@@ -1,0 +1,13 @@
+{
+  "name": "prefixed",
+  "repo": "mnmly/prefixed",
+  "description": "Vendor prefix utility component: Direct port from Modernizr.prefixed",
+  "version": "0.0.1",
+  "keywords": ["Modernizr", "compontent"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
